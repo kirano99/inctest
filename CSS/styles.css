@@ -241,6 +241,7 @@ h1 {
 .tinytext {
     font-size: 8pt;
     text-align: left;
+    margin-bottom: 50px;
 }
 
 #smallertext {
@@ -591,7 +592,6 @@ div.flip {
 
 #privacydiv{
     white-space: pre-wrap; 
-    display: block;
 }
 
 
