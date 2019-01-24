@@ -591,6 +591,7 @@ div.flip {
 
 #privacydiv{
     white-space: pre-wrap; 
+    display: block;
 }
 
 
