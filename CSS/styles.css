@@ -241,7 +241,6 @@ h1 {
 .tinytext {
     font-size: 10pt;
     text-align: left;
-    margin-bottom: 50px;
     font-family: sans-serif!important;
 }
 
@@ -591,6 +590,10 @@ div.flip {
     text-decoration: underline;
 }
 
+#privacydiv{
+    max-width: 60em;
+    margin: 0 auto;
+}
 
 
 /* media Queries... */f
