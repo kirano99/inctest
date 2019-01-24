@@ -239,10 +239,10 @@ h1 {
 }
 
 .tinytext {
-    font-size: 8pt;
+    font-size: 10pt;
     text-align: left;
     margin-bottom: 50px;
-    font-family: cursive!important;
+    font-family: serif !important;
 }
 
 #smallertext {
@@ -591,9 +591,6 @@ div.flip {
     text-decoration: underline;
 }
 
-#privacydiv{
-    white-space: pre-wrap; 
-}
 
 
 /* media Queries... */f
